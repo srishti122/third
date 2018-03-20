@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'ps-icon';
-  src:  url('fonts/ps-icon8808.eot?ikt2lp');
-  src:  url('fonts/ps-icon8808.eot?ikt2lp#iefix') format('embedded-opentype'),
-    url('fonts/ps-icon8808.ttf?ikt2lp') format('truetype'),
-    url('fonts/ps-icon8808.woff?ikt2lp') format('woff'),
-    url('fonts/ps-icon8808.svg?ikt2lp#ps-icon') format('svg');
+  src:  url('https://srishti122.github.io/third/images/images/ps-icon8808.eot');
+  src:  url('https://srishti122.github.io/third/images/ps-icon8808.eot') format('embedded-opentype'),
+    url('https://srishti122.github.io/third/images/ps-icon8808.ttf') format('truetype'),
+    url('https://srishti122.github.io/third/images/ps-icon8808.woff') format('woff'),
+    url('https://srishti122.github.io/third/images/ps-icon8808.svg') format('svg');
   font-weight: normal;
   font-style: normal;
 }
